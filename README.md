@@ -1,6 +1,13 @@
 # VeroniceRoot
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=@theveronicaroot&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=@theveronicaroot&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <a href="https://instagram.com/theveronicaroot" target="_blank">
+    <img src="https://img.shields.io/badge/theveronicaroot-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=@theveronicaroot&fontSize=40&fontColor=ffffff)
 
 ## ₿ Support / Donate
 **BTC Address:**
